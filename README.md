@@ -1,5 +1,3 @@
-<h1 align="center"> Hi , Myself Vivek Vardhan</h1> 
-<h3 align="center">An Enthusiastic ML and Web Developer from India</h3>
 <h1 align="center"> Hi , This is Shaymaa Sayed</h1> 
 <h3 align="center">An Enthusiastic ML and AI Engineer</h3>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8151F7&width=435&lines=I+am+a+Web+Developer;Exploring+AI+and+ML;Improving+New+Skills" alt="Typing SVG" /></a>
